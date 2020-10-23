@@ -46,7 +46,8 @@ Here
 
 ## Chapter by Jana
 
-Here
+Here is a super interesting chapter. You can find a lot of details here. 
+Check it out.
 
 ## Chapter by Katrin
 
