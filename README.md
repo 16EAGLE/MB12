@@ -26,7 +26,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 ## Chapter by Asa
 
-Here
+Schönes Wochenende
 
 ## Chapter by Caroline
 
