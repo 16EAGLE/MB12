@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Chapter by Dilara
 
-Here
+Hello git!
 
 ## Chapter by Hyeonmin
 
