@@ -65,8 +65,8 @@ Here
 Here
 
 ## Chapter by Reagan
-
-Here
+This chapter is sure going to be fun to work on!
+Try make changes and commit
 
 ## Chapter by Rutendo
 
