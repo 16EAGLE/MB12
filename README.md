@@ -66,7 +66,9 @@ Here
 
 ## Chapter by Reagan
 This chapter is sure going to be fun to work on!
-Try make changes and commit
+Try make changes and commit.
+
+Submitting changes through terminal
 
 ## Chapter by Rutendo
 
