@@ -42,7 +42,7 @@ Hello git!
 
 ## Chapter by Hyeonmin
 
-Here TEST
+Here TEST TEST2 TEST5(Terminal)
 
 ## Chapter by Jana
 
