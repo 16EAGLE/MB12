@@ -42,7 +42,7 @@ Hello git!
 
 ## Chapter by Hyeonmin
 
-Here TEST
+Here TEST TEST2 TEST5(Terminal)
 
 ## Chapter by Jana
 
@@ -66,13 +66,19 @@ Just a small change
 Here
 
 ## Chapter by Reagan
+This chapter is sure going to be fun to work on!
+Try make changes and commit.
 
-Here
+Submitting changes through terminal
 
 ## Chapter by Rutendo
 
-Here
+hey everyone... present 
 
 ## Chapter by Vanessa
 
 Hey this is Vanessa writing something to test fork.
+
+## Chapter by Andrea
+
+Hola 
