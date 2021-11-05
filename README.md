@@ -26,6 +26,6 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 ## Section Jakob
 
-Hello!
+Hello, all!
 
 *Last updated: October 28th, 2021*
