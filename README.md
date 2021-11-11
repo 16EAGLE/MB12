@@ -3,7 +3,8 @@
 The MB12 research project investigates how things can be calculated from other things using R. Read some nonsense below that has been copy-pasted soley for the purpose of filling up this document.
 
 
-##this is Ina's section!
+## this is Ina's section!
+
 hello! 
 this is another change!!!!
 
@@ -13,7 +14,7 @@ The body of your abstract begins here. It should be an explicit summary of your 
 
 ## What is Lorem Ipsum?
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hi
 
 ## Why do we use it?
 
@@ -29,7 +30,21 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
+
 ## Hello Würzburg! :)
+
+## Comments of Magdalena
+
+Hi I am here
+I made a chane
+
+## section Svenja: 
+
+I´m part of this project now:))
+
+## Lallu 
+
+Hello guys,Lallu here!!
 
 ## Section Jakob
 
