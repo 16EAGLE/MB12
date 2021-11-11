@@ -3,7 +3,8 @@
 The MB12 research project investigates how things can be calculated from other things using R. Read some nonsense below that has been copy-pasted soley for the purpose of filling up this document.
 
 
-##this is Ina's section!
+## this is Ina's section!
+
 hello! 
 this is another change!!!!
 
@@ -13,7 +14,7 @@ The body of your abstract begins here. It should be an explicit summary of your 
 
 ## What is Lorem Ipsum?
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hi
 
 ## Why do we use it?
 
