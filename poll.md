@@ -1,3 +1,8 @@
+Elly
+1: 1-2
+2: Python, Java Script 
+3: Windows
+
 Isa
 1: 1
 2: JavaScript, Java, Python
