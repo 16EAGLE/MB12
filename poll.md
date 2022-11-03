@@ -1,19 +1,29 @@
----
-title: "Poll"
-author: "Sarah"
-date: "28 10 2022"
-output: html_document
----
+Sarah
+1: 0.5
+2: R
+3: Windows 10
 
-## 1. Question
+Elly
+1: 1-2
+2: Python, Java Script 
+3: Windows
 
-0.5
+Isa
+1: 1
+2: JavaScript, Java, Python
+3: Windows
 
-## 2. Question
+Sunniva
+1: 2
+2: Java, C#, HTML, JavaScript, CSS
+3: Windows
 
-R
+Agnes
+1: 2
+2: Python, R, Fortran, html, sql
+3: Windows
 
-## 3. Question
-
-Windows 10
-
+Jakob
+1: 2
+2: Pyhton, R
+3: Ubuntu
