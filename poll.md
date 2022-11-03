@@ -1,21 +1,19 @@
----
-title: "poll.md."
-author: "Isa"
-date: "2022-10-28"
-output: html_document
----
+Isa
+1: 1
+2: JavaScript, Java, Python
+3: Windows
 
+Sunniva
+1: 2
+2: Java, C#, HTML, JavaScript, CSS
+3: Windows
 
+Agnes
+1: 2
+2: Python, R, Fortran, html, sql
+3: Windows
 
-
-## Coding experience
-
-1
-
-## Used programming languages
-
-JavaScript, Java, Python
-
-## Operating System
-
-Windows
+Jakob
+1: 2
+2: Pyhton, R
+3: Ubuntu
