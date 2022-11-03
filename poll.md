@@ -1,3 +1,8 @@
+Farimah
+1: 1
+2: MATLAB
+3: Windows
+
 Lena
 1: 0
 2: Python 
