@@ -1,23 +1,24 @@
----
-title: "poll.md"
-output: html_document
-date: "2022-10-28"
----
+Elly
+1: 1-2
+2: Python, Java Script 
+3: Windows
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Isa
+1: 1
+2: JavaScript, Java, Python
+3: Windows
 
-## Question 1
+Sunniva
+1: 2
+2: Java, C#, HTML, JavaScript, CSS
+3: Windows
 
-1-2
+Agnes
+1: 2
+2: Python, R, Fortran, html, sql
+3: Windows
 
-
-## Question 2
-
-Python, Java Script 
-
-
-## Question 3
-
-Windows
+Jakob
+1: 2
+2: Pyhton, R
+3: Ubuntu
