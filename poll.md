@@ -1,3 +1,8 @@
+Ronja
+1: 1
+2: R, Python, GEE
+3: Windows
+
 Sarah
 1: 0.5
 2: R
