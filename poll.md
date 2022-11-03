@@ -1,3 +1,8 @@
+Sarah
+1: 0.5
+2: R
+3: Windows 10
+
 Elly
 1: 1-2
 2: Python, Java Script 
