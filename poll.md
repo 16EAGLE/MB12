@@ -1,3 +1,8 @@
+Lena
+1: 0
+2: Python 
+3: Windows
+
 Ronja
 1: 1
 2: R, Python, GEE
