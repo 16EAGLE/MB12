@@ -1,3 +1,8 @@
+Christobal 
+1: 0.8
+2: R
+3: Windows
+
 Farimah
 1: 1
 2: MATLAB
