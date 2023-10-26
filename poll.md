@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Georg Starz
 * 3
 * Python, R, JavaScript
@@ -49,3 +50,7 @@
 * Python, Java Script
 * Mac iOS
 
+#Rejina Gauro
+* 1
+* R-Studio (but just done basic analysis)
+* Windows10
