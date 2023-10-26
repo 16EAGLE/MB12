@@ -18,3 +18,7 @@
 * Python, JavaScript (tiny bit)
 * Windows
 
+#Daria ushakova
+*0
+*no one
+*Windows 11
