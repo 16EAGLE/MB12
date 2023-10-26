@@ -33,3 +33,8 @@
 * R, Python, a little bit of Fortran, Java, HTML and SQL
 * MacOS and Windows (Bootcamp)
 
+## Angie Stephania Torres Lopez
+
+* 0
+* R, Python
+* Windows
