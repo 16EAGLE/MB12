@@ -34,7 +34,12 @@
 * MacOS and Windows (Bootcamp)
 
 ## Angie Stephania Torres Lopez
-
 * 0
 * R, Python
 * Windows
+
+# Elena Scholz
+* 2
+* python, sql, javascript, r, fortran
+* linux (and windows)
+
