@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Georg Starz
 * 3
 * Python, R, JavaScript
@@ -54,3 +52,8 @@
 * 1
 * R-Studio (but just done basic analysis)
 * Windows10
+
+# Guisseppe Vasquez Villano
+* 3
+* Rstudio, Qgis, Matlab, Fortran
+* Windows
