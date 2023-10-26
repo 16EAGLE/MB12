@@ -7,3 +7,8 @@
 * 0-5
 * RStudio
 * window10, 64-bit
+
+# Laura Obrecht
+* 2
+* R, Python, Java
+* Windows
