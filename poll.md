@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Georg Starz
 * 3
 * Python, R, JavaScript
@@ -42,4 +43,9 @@
 * 2
 * python, sql, javascript, r, fortran
 * linux (and windows)
+
+# Clara
+* 3
+* Python, Java Script
+* Mac iOS
 
