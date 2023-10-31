@@ -62,3 +62,8 @@
 *1
 *python, R, GEE (Java)
 *windows
+
+# Elin Gerdes
+* 1
+* Python
+* Windows 10
