@@ -57,3 +57,8 @@
 * 3
 * Rstudio, Qgis, Matlab, Fortran
 * Windows
+
+#Leonie Sonntag
+*1
+*python, R, GEE (Java)
+*windows
