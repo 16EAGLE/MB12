@@ -57,7 +57,10 @@ df_aggr <- df_grouped_1[,!colnames(df_grouped_1) %in% "ProductionTypeName"] %>%
   summarise(across(`2020-08-03`:`2020-08-08`, sum, .names = "{.col}"))
 df_aggr <- df_aggr %>% arrange(desc(`2020-08-03`))
 df_aggr <- ungroup(df_aggr)
-View(df_aggr) # We could use this df as a basis for our targeted spatial country plot (day 5, slide 7)
+df_aggr <- df_aggr %>% 
+  mutate(AVERAGE_GENERATION = (`2020-08-03` + `2020-08-04` + `2020-08-05` + `2020-08-06` + `2020-08-07` +`2020-08-08`) / 6)
+View(df_aggr)
+# We could use this df as a basis for our targeted spatial country plot (day 5, slide 7)
 
 # Aggregate per production type per country
 df_type <- df_grouped_1 %>% 
