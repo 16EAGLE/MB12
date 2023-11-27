@@ -60,7 +60,7 @@ df_aggr <- ungroup(df_aggr)
 df_aggr <- df_aggr %>% 
   mutate(AVERAGE_GENERATION = (`2020-08-03` + `2020-08-04` + `2020-08-05` + `2020-08-06` + `2020-08-07` +`2020-08-08`) / 6)
 View(df_aggr)
-# We could use this df as a basis for our targeted spatial country plot (day 5, slide 7)
+# -> We could use this df as a basis for our targeted spatial country plot (day 5, slide 7)
 
 # Aggregate per production type per country
 df_type <- df_grouped_1 %>% 
@@ -72,6 +72,7 @@ View(df_type)
 
 
 
+# EXTRA: Same for Installed Capacity
 
 # Sum up daily Installed Capacity
 df_grouped_IC <- df %>% 
@@ -91,7 +92,10 @@ df_aggr_IC <- df_grouped_1_IC[,!colnames(df_grouped_1_IC) %in% "ProductionTypeNa
   summarise(across(`2020-08-03`:`2020-08-08`, sum, .names = "{.col}"))
 df_aggr_IC <- df_aggr_IC %>% arrange(desc(`2020-08-03`))
 df_aggr_IC <- ungroup(df_aggr_IC)
-View(df_aggr_IC) # It seems like there is quite a lot missing, e.g. DE, https://www.smard.de/page/en/wiki-article/5884/6038 says 232,000 MW (Nov 23) vs. 73,500 MW here
+df_aggr_IC <- df_aggr_IC %>% 
+  mutate(AVERAGE_IC = (`2020-08-03` + `2020-08-04` + `2020-08-05` + `2020-08-06` + `2020-08-07` +`2020-08-08`) / 6)
+View(df_aggr_IC)
+# -> It seems like there is quite a lot missing, e.g. DE, https://www.smard.de/page/en/wiki-article/5884/6038 says 232,000 MW (Nov 23) vs. 73,500 MW here
 
 # Aggregate per production type per country
 df_type_IC <- df_grouped_1_IC %>% 
